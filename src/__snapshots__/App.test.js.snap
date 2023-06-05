@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "10rem",
+        }
+      }
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+           Github User 
+        </div>
+        <p
+          className="card-text"
+        >
+          Username = NoahKKA
+        </p>
+        <img
+          alt="Github Profile Picture"
+          className="card-img-top"
+          src="https://avatars.githubusercontent.com/u/53351750?v=4"
+        />
+        <p
+          className="card-text"
+        >
+          This is a Card that was made using react-bootstrap.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
